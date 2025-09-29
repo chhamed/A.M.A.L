@@ -20,6 +20,8 @@ Ce document présente une étude complète de l’architecture **Gateway** de De
 
 ##  Introduction
 
+![Screenshot_20250929_150006_Chrome](https://github.com/user-attachments/assets/c8e2d3da-4a3c-4e98-a5af-887ad3426eb2)
+
 Deepseek est une plateforme reposant sur une architecture orientée microservices.  
 Le **Gateway** est le point d’entrée du système et remplit plusieurs rôles critiques :  
 - Authentification et autorisation  
